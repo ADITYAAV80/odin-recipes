@@ -1,0 +1,38 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    background-color: blanchedalmond;
+    color: maroon;
+}
+.header.main{
+    font-size: 48px;
+    text-align: center;
+    text-shadow: 1px 1px red;
+}
+.list{
+    font-size: 20px;
+    color: brown;
+}
+img{
+    margin: 0 auto;
+    display: block;
+}
+.description{
+    text-align: center;
+    font-weight: 200;
+    color: brown;
+}
+h2{
+    font-size: 32px;
+    text-shadow: 1px 1px red;
+}
+h3{
+    font-size: 24px;
+    text-shadow: 1px 1px red;
+}
+.ingredient-list{
+    color: brown;
+}
+.end-message{
+    text-align: center;
+}
